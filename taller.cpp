@@ -19,5 +19,6 @@ int main(void)
       if(N==2)
 	cout << i <<endl;
     }
+  return 0;
 }
 
